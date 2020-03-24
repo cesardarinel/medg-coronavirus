@@ -15,7 +15,7 @@ var texto1 = "USTED NO NECESITA ASISTIR A CENTRO DE SALUD NI REALIZARSE EL TEST"
     resul4 = "<p>En caso de aparición de los síntomas antes mencionados, rogamos ingresar nuevamente a la plataforma para posible teleconsulta con profesional médico, </p><p>evite asistir a centros de salud para evitar posibles contagios. </p>",
     resul5 = "<p>Además, es prioritario mantener las medidas generales de prevención del coronavirus </p>",
     resul6 = "<p>Si no presenta síntomas, no necesita atención médica ni realizarse el test. </p>",
-    ed = "<p>Como es parte de un grupo de riesgo de complicaciones, también recomendamos evitar contactos innecesarios:</p><p>- Evite supermercados y malls, sobre todo en horarios punta. Solicite a algún miembro de su familia ayuda en sus compras</p><p>- Evite contacto con personas enfermas</p><p>Una persona sana no debe usar mascarillas en espacios públicos. No está probado que proporcione protección efectiva, sino al contrario, puede dar falsa sensación de seguridad</p>";
+    ed = "<strong><p>Como es parte de un grupo de riesgo de complicaciones, también recomendamos evitar contactos innecesarios:</p><p>- Evite supermercados y malls, sobre todo en horarios punta. Solicite a algún miembro de su familia ayuda en sus compras</p><p>- Evite contacto con personas enfermas</p></strong>";
 
 function valida() {
     let e = !1,
